@@ -25,5 +25,5 @@ Extracting the accurate readings from the highly noisy data by Implementing the 
 ## What we learned
 We learned about photoplethysmogram and how we can achieve that with optical sensors like photodiodes and IR LEDs. Learned about digital filters, which we can implement into our further projects, and being the most helpful. We were pretty amazed by knowing that we are surrounded by so many signals, and it contains data. Even when we saw the signal from the sensor read by the ADC, it was such a mess and very noisy reading. After filtering, we were able to get the desired reading. 
 
-## What's next for Eir
+## What's next for Eir 2.0
 We are targeting to attach a RED LED to measure the SP02 level. Even by modifying the algorithms for detecting the Diastolic peak and the Dicrotic notch and measuring the transit times, we can reveal many secrets of the user's health. Next, we will try to build an app that will display all the data recorded from the person using Eir, and the app will also be able to analyse and express if the user has any health condition using algorithms. Along with focusing on healthcare, this hack will also help people in general to monitor their well-being and learn about the factors that affect their health. We will try to turn this device into a commercial product that can also be used for educational purposes in institutes and hospitals. 
